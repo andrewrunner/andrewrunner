@@ -1,8 +1,12 @@
-### Hi there 👋
+ Hi there 👋
+<p >
+ <img float="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="250px">
+</p>
+
 
 <!--
 **andrewrunner/andrewrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://octodex.github.com/images/hula_loop_octodex03.gif
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
