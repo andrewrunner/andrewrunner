@@ -1,9 +1,19 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1643511447/50554/hello-dog.gif?1643511447" width="40"/> Hi! Nice to see you</h1>
+<h1>
+ <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
+<!--  <img src="https://emojis.slackmojis.com/emojis/images/1643514733/7377/hello_fox.gif?1643514733" width="40"/>  -->
+ Hi! Nice to see you
+</h1>
 
+<p>
+ Welcome to my page!</br> 
+ I'm Andrew, software engineer
+</p>
+
+<!--
 <p >
  <img float="right" src="https://octodex.github.com/images/hula_loop_octodex03.gif" width="250px">
 </p>
-
+-->
 
 <!--
 **andrewrunner/andrewrunner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
