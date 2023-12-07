@@ -11,7 +11,7 @@
 
 About me
 - 👨‍💻 Start coding since 2015
-- 👨‍💼 Commercial developer since 2018
+- 👨‍💼 Commercial developer since 2019
 - 🗺️ My dev way: Pascal -> C++ -> C# -> PHP/JS -> TS/Node.js
 - 💬 Ask me about anything related to JS/TS/PHP or Vue.js/Node.js/Express.js/NestJS/Laravel
 - 😄 Languages: ukrainian, russian, english
