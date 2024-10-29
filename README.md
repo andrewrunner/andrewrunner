@@ -14,7 +14,7 @@ About me
 - 👨‍💼 Commercial developer since 2019
 - 🗺️ My dev way: C# -> PHP/JS -> TS/Node.js
 - 💬 Ask me about anything related to JS/TS/PHP or Vue.js/Node.js/Express.js/NestJS/Laravel
-- 😄 Languages: ukrainian, russian, english
+- 😄 Languages: ua,ru,en
 
 
 ### Languages and Tools
